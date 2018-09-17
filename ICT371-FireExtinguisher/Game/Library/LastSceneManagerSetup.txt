@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Warehouse environment/Scenes/Test-Warehouse.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,8 @@
+Instructions on how to compile the code and view the project in unity
+
+1. Install Unity
+2. To open the project, run unity and click open
+3. find the folder with all the project files and click select folder
+4. click play at the top of the unity screen
+
+To play the game, please just double click the exe provided

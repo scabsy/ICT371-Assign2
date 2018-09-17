@@ -1,0 +1,83 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780M (ID=0x119f)
+    Vendor:   NVIDIA
+    VRAM:     4063 MB
+    Driver:   22.21.13.8189
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\2\ICT371-FireExtinguisher\Executables\Windows\FireTraining_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\2\ICT371-FireExtinguisher\Executables\Windows\FireTraining_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\2\ICT371-FireExtinguisher\Executables\Windows\FireTraining_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\2\ICT371-FireExtinguisher\Executables\Windows\FireTraining_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\2\ICT371-FireExtinguisher\Executables\Windows\FireTraining_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\2\ICT371-FireExtinguisher\Executables\Windows\FireTraining_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\2\ICT371-FireExtinguisher\Executables\Windows\FireTraining_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\2\ICT371-FireExtinguisher\Executables\Windows\FireTraining_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\2\ICT371-FireExtinguisher\Executables\Windows\FireTraining_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\2\ICT371-FireExtinguisher\Executables\Windows\FireTraining_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\2\ICT371-FireExtinguisher\Executables\Windows\FireTraining_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\2\ICT371-FireExtinguisher\Executables\Windows\FireTraining_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\2\ICT371-FireExtinguisher\Executables\Windows\FireTraining_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\2\ICT371-FireExtinguisher\Executables\Windows\FireTraining_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.309 seconds
+Platform assembly: D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\2\ICT371-FireExtinguisher\Executables\Windows\FireTraining_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\2\ICT371-FireExtinguisher\Executables\Windows\FireTraining_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 120Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 42.053619 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 7150 -> priority: 1 
+  Thread -> id: 9270 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'Return') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Resume') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.380394 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 846.
+Total: 0.445737 ms (FindLiveObjects: 0.070012 ms CreateObjectMapping: 0.015395 ms MarkObjects: 0.329537 ms  DeleteObjects: 0.030424 ms)
+
+33.01878
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+26.77551
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\2\ICT371-FireExtinguisher\Executables\Windows\FireTraining_Data\Managed\Boo.Lang.dll (this message is harmless)
+The referenced script on this Behaviour (Game Object 'Return') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Resume') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.519415 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 5200.
+Total: 1.441681 ms (FindLiveObjects: 0.159087 ms CreateObjectMapping: 0.040321 ms MarkObjects: 0.800200 ms  DeleteObjects: 0.441705 ms)
+
+Test1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Test1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Test1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
